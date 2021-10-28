@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff2bc95c59012e44ab0a0752c4622453, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  projectItems: []
+  scenes:
+  - sceneGuid: d8575bc8f9c844693bc2f83f6781ab0a
+    items:
+    - unityObject: {fileID: 0}
+      sceneObjectId: 52440493
+      unityObjectName: rHand
+      customName: 
+    - unityObject: {fileID: 0}
+      sceneObjectId: 1731158380
+      unityObjectName: lHand
+      customName: 
+    - unityObject: {fileID: 0}
+      sceneObjectId: 1650775733
+      unityObjectName: rCollar
+      customName: 
+    - unityObject: {fileID: 0}
+      sceneObjectId: 1013171583
+      unityObjectName: lCollar
+      customName: 
+    - unityObject: {fileID: 0}
+      sceneObjectId: 941445461
+      unityObjectName: neckLower
+      customName: 
+    - unityObject: {fileID: 0}
+      sceneObjectId: 2092220869
+      unityObjectName: lefthandTarget (1)
+      customName: 
+    - unityObject: {fileID: 0}
+      sceneObjectId: 74140573
+      unityObjectName: lCarpal4
+      customName: 
+    - unityObject: {fileID: 0}
+      sceneObjectId: 978314290
+      unityObjectName: righthandTarget
+      customName: 
+  - sceneGuid: f4a5fe6727ea24a0eb25571fde3629fe
+    items:
+    - unityObject: {fileID: 0}
+      sceneObjectId: 1042838446
+      unityObjectName: PianoPlayer
+      customName: 
+    - unityObject: {fileID: 0}
+      sceneObjectId: 530099312
+      unityObjectName: MyPlayer
+      customName: 
+    - unityObject: {fileID: 0}
+      sceneObjectId: 1215110510
+      unityObjectName: M3DFemale
+      customName: 
+    - unityObject: {fileID: 0}
+      sceneObjectId: 1013171583
+      unityObjectName: lCollar
+      customName: 
+    - unityObject: {fileID: 0}
+      sceneObjectId: 1650775733
+      unityObjectName: rCollar
+      customName: 
+    - unityObject: {fileID: 0}
+      sceneObjectId: 941445461
+      unityObjectName: neckLower
+      customName: 
+    - unityObject: {fileID: 0}
+      sceneObjectId: 52440493
+      unityObjectName: rHand
+      customName: 
+    - unityObject: {fileID: 0}
+      sceneObjectId: 1731158380
+      unityObjectName: lHand
+      customName: 
+    - unityObject: {fileID: 0}
+      sceneObjectId: 2092220869
+      unityObjectName: 'lefthandTarget '
+      customName: 
+    - unityObject: {fileID: 0}
+      sceneObjectId: 739328262
+      unityObjectName: lefttarget (2)
+      customName: 
+    - unityObject: {fileID: 0}
+      sceneObjectId: 2073788820
+      unityObjectName: lefttarget
+      customName: 
