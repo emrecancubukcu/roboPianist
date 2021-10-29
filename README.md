@@ -5,7 +5,7 @@ When I watched Westworld in 2017, I decided to develop a character in unity who 
 I started with great enthusiasm, but I did not have time to continue. 
 Now I am sharing the code as open source. I hope someone completes it. 
 
-Unity Vesrion:  2020.3.14
+Unity Version:  2020.3.14
 
 detailed informatin in my artstation page 
 https://www.artstation.com/blogs/emrecancubukcu/jobw/making-of-robotpianist-midi-piano-player-character-with-autofingering
