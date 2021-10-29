@@ -8,7 +8,7 @@ Now I am sharing the code as open source. I hope someone completes it.
 Unity Vesrion:  2020.3.14
 
 detailed informatin in my artstation page 
-https://www.artstation.com/blogs/emrecancubukcu/jobw/robotpianist
+https://www.artstation.com/blogs/emrecancubukcu/jobw/making-of-robotpianist-midi-piano-player-character-with-autofingering
 
 
 
