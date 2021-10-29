@@ -11,6 +11,13 @@ detailed informatin in my artstation page
 https://www.artstation.com/blogs/emrecancubukcu/jobw/making-of-robotpianist-midi-piano-player-character-with-autofingering
 
 
+How To Use
+=============
+
+- copy your midi file to resources/midi and rename and add txt ( ex: westword.midi  => westword.midi.txt ) 
+- in midi file, left and right hand track should be seperate.
+- Midi programs of left/right track  ( enstrumant no )  have to be 1 for left hand, 0 for right hand
+
 
 CREDITS
 -----------------------------------
