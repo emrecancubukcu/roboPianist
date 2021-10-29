@@ -15,9 +15,16 @@ https://www.artstation.com/blogs/emrecancubukcu/jobw/making-of-robotpianist-midi
 CREDITS
 -----------------------------------
 
-Blakewest's performer,  https://github.com/blakewest/performer
+
+Chad Carter's Unity port  https://github.com/kewlniss/CSharpSynthForUnity
+
 Philip Abbet's python implementation, https://github.com/Kanma/piano_fingering
+
 Nora's Greatest full-body IK, https://github.com/Stereoarts/SAFullBodyIK
+
 Zombie model, www.mixamo.com
+
 Other models created in Adobe Fuse
+
 Midi files, https://www.midiworld.com/
+
