@@ -19,6 +19,20 @@ How To Use
 - Midi programs of left/right track  ( enstrumant no )  have to be 1 for left hand, 0 for right hand
 
 
+TODO & ISSUES
+=============
+- some systems midi notes cannot mute
+- Develop a simple fingering algorithm
+- Philip Abbet's auto-finger code to my c# port bugfix ( working correct, only first midi file in projects :( )
+- Wrist rotation calculation
+- IK reaching problems
+- Smart head and shoulder movement
+- Different playing styles of the characters ( laziness, passion, fatigue, etc.)
+- solve note pressing duration & glitch bug
+- try this, https://github.com/marcomusy/pianoplayer
+- try with learning AI systems
+- documentation, and tips on Unity3d editor
+
 CREDITS
 -----------------------------------
 
