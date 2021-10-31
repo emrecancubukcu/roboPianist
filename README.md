@@ -21,7 +21,7 @@ How To Use
 
 TODO & ISSUES
 =============
-- some systems midi notes cannot mute
+- on some systems, mute midi message is not working!!!
 - Develop a simple fingering algorithm
 - Philip Abbet's auto-finger code to my c# port bugfix ( working correct, only first midi file in projects :( )
 - Wrist rotation calculation
