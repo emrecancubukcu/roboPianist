@@ -1,4 +1,4 @@
-roboPianist, Midi Piano Player Character with Autofingering
+roboPianist, Midi Piano Player Character with Autofingering ( not finished )
 =============
 
 When I watched Westworld in 2017, I decided to develop a character in unity who plays the piano according to midi notes with correct fingering. 
